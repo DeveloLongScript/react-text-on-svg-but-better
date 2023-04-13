@@ -44,7 +44,7 @@ const TextOnSvg = ({
       version="1.1"
       xmlns="http://www.w3.org/2000/svg">
       <g stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
-        <rect fill={backgroundColor} x="0" y="0" width={width} height={height}></rect>
+        <rect fill={backgroundColor} x="0" y="0" width={width} height={height} px="8"></rect>
         <text
           {...fontFamily !== '' ? {fontFamily: fontFamily} : {}}
           fontSize={fontSize}
