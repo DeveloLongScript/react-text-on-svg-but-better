@@ -1,6 +1,6 @@
 {
   "name": "react-text-on-svg-but-better",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React component that draws an svg box with text on it.",
   "main": "dist/react-text-to-svg.js",
   "repository": "https://github.com/DeveloLongScript/react-text-on-svg-but-better",
