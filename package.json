@@ -1,12 +1,12 @@
 {
-  "name": "react-text-on-svg",
+  "name": "react-text-on-svg-but-better",
   "version": "1.0.1",
   "description": "React component that draws an svg box with text on it.",
   "main": "dist/react-text-to-svg.js",
-  "repository": "https://github.com/pnicolli/react-text-on-svg",
+  "repository": "https://github.com/DeveloLongScript/react-text-on-svg-but-better",
   "bugs": "https://github.com/pnicolli/react-text-on-svg/issues",
-  "author": "Piero Nicolli (github.com/pnicolli)",
-  "homepage": "https://github.com/pnicolli/react-text-on-svg#readme",
+  "author": "Piero Nicolli (github.com/pnicolli), DeveloLongScript (github.com/DeveloLongScript)",
+  "homepage": "https://github.com/DeveloLongScript/react-text-on-svg-but-better",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.24.1",
